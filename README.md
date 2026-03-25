@@ -26,6 +26,12 @@ Das Ziel dieses Projekts ist es, den Einkaufsprozess in SAP MM in vereinfachter 
 
 📌 Dieses Projekt wurde im Rahmen meines SAP-Studiums entwickelt und dokumentiert.
 
+⚠️ Note:
+This is my first SAP MM demo project.
+
+A more advanced version (Project v2) is currently in development,
+including extended business scenarios and full documentation.
+
 ## 📁 Files and Structure
 
 - `prozessbeschreibung.pdf`: German-language overview of the procurement process
